@@ -1,0 +1,20 @@
+[
+    {
+        "id": "science",
+        "name": "Science",
+        "class": 8,
+        "icon": "fa-flask"
+    },
+    {
+        "id": "maths",
+        "name": "Mathematics",
+        "class": 8,
+        "icon": "fa-calculator"
+    },
+    {
+        "id": "maths",
+        "name": "Chemistry",
+        "class": 12,
+        "icon": "fa-calculator"
+    }
+]
